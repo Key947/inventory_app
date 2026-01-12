@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-01-12 at 11 44 28 AM](https://github.com/user-attachments/assets/9feb0b64-1467-48b4-855a-081b65ae8599)<think>
+<think>
 Pertama, pengguna memberikan deskripsi aplikasi POS yang dibuat dengan Flutter, dan meminta untuk "format agar enak dibaca di github". Ini berarti saya perlu memformat teks ini menjadi Markdown yang bagus untuk GitHub, seperti README.md.
 
 </think># Point of Sales (POS) Application
