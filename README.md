@@ -1,8 +1,3 @@
-<think>
-Pertama, pengguna memberikan deskripsi aplikasi POS yang dibuat dengan Flutter, dan meminta untuk "format agar enak dibaca di github". Ini berarti saya perlu memformat teks ini menjadi Markdown yang bagus untuk GitHub, seperti README.md.
-
-</think># Point of Sales (POS) Application
-
 Aplikasi sistem Point of Sales (POS) sederhana namun fungsional yang dibangun menggunakan Flutter. Dirancang untuk membantu Usaha Kecil Menengah (UKM) dalam mengelola stok barang dan mencatat transaksi penjualan secara digital. Menggunakan database lokal (SQLite), aplikasi ini dapat berjalan sepenuhnya secara offline tanpa ketergantungan pada koneksi internet.
 
 ## Anggota Kelompok
